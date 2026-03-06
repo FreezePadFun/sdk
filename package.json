@@ -1,0 +1,17 @@
+{
+  "name": "freezepad",
+  "version": "1.0.0",
+  "description": "Ship code. Lock tokens. Prove it on-chain.",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve frontend",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "serve": "^14.2.0"
+  }
+}
